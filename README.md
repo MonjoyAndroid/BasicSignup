@@ -1,1 +1,2 @@
 Basic signup with floating title edit text and save input data to server, validate user input for first name, last name and age while signup button click. Used MVVM architecture, Retrofit for api call and Hilt and dependancy injection.
+Manage LiveData efficiently so that in configuration change, observer will not update unnecessary ui if no new data available and hold the previous data before configuration changes.
