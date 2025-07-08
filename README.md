@@ -1,0 +1,1 @@
+Basic signup with floating title edit text and save input data to server, validate user input for first name, last name and age while signup button click. Used MVVM architecture, Retrofit for api call and Hilt and dependancy injection.
